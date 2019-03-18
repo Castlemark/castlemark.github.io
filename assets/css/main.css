@@ -2745,7 +2745,7 @@ input, select, textarea {
 		body.is-touch .tiles article .content {
 			max-height: 15em;
 			opacity: 1;
-			background-color: rgba(127, 127, 127, 0.85);
+			background-color: rgba(127, 127, 127, 0.65);
 		}
 
 		@media screen and (max-width: 1280px) {
