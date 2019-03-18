@@ -2727,6 +2727,7 @@ input, select, textarea {
 			body:not(.is-touch) .tiles article:hover .content {
 				max-height: 15em;
 				opacity: 1;
+				background-color: rgba(127, 127, 127, 0.85);
 			}
 
 		* + .tiles {
